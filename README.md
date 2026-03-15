@@ -8,8 +8,7 @@ Automated PSX & Crypto Analysis Tool.
 - **RSI Indicators:** Automated buy/sell signals.
 - **Portfolio Tracker:** Live profit/loss calculation.
 
-## 🚀 Live Demo
-[http://localhost:8501/#smart-stock-analyzer]
+#]
 
 ## 💻 Tech Stack
 - Python, Streamlit, Pandas, YFinance.
